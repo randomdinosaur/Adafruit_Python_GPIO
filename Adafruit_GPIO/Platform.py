@@ -114,5 +114,4 @@ def pi_version():
         # Pi 4
         return 4
     else:
-        # Something else, not a pi.
         return 4
